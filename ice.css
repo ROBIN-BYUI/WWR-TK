@@ -1,0 +1,55 @@
+body {
+    background-color: pink;
+    text-align: center;
+    padding: 0 30% 10% 30%;
+}
+main {
+    text-align: left;
+    padding: 0 10% 0 10%;
+    line-height: 35px;
+}
+header {
+    line-height: 25px;
+}
+img {
+    height: 220px;
+    width: 170px;
+    padding: 0% 30% 0 30%;
+}
+#edtit {
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#edtit1 {
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+p {
+    color: white;
+
+}
+#edtit1:hover {
+    color: black;
+    transition-duration: 1s;
+}
+#para {
+    font-size: 45px;
+    line-height: 1.2em;
+    text-align: center;
+    color: white;
+    width: 400px;
+    padding: 0 5% 0 5%;
+}
+#end {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 350px;
+    padding:0 18% 0 18%;
+    color:black;
+}
+#end p{
+    color:black;
+}
+ol {
+   font-family: Arial, Helvetica, sans-serif; 
+} 
