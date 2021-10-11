@@ -1,0 +1,26 @@
+#background {
+    height: 725px;
+}
+body {
+    background-color: #2A9D; 
+}
+header {
+    background-color:#264653 ;
+}
+nav a:hover {
+    background-color: #E76F51;
+}
+nav a:hover {
+    background-color:#396E94;
+    color: #ef6f51;
+}
+.icon {
+    width: 80px;
+}
+nav a {
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+}    
+         
+        
