@@ -2,11 +2,12 @@
     margin: 0;
     padding: 0;
 }
-
+body {
+    background-image: url("background.png");
+  }
 .main{
     width: 100%;
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.5)50%,rgba(0,0,0,0.5)50%), url(1.jpg);
-    background-position: center;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.5)50%,rgba(0,0,0,0.5)50%);
     background-size: cover;
     height: 109vh;
 }
@@ -16,6 +17,7 @@
     width: 1200px;
     height: 75px;
     margin: auto;
+    color:#ff7200;
 }
 
 .icon{
