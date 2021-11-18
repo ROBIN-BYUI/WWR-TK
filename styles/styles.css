@@ -18,6 +18,8 @@ body {
     height: 75px;
     margin: auto;
     color:#ff7200;
+
+
 }
 
 .icon{
@@ -132,7 +134,7 @@ ul li a{
     font-size: 50px;
     padding-left: 20px;
     margin-top: 9%;
-    letter-spacing: 2px;
+    letter-spacing: 10px;
 
 }
 
