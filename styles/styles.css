@@ -21,7 +21,10 @@ body {
 
 
 }
-
+p {
+    margin-bottom: 15px;
+    line-height: 1.2em;
+}
 .icon{
     width: 200px;
     float: left;
@@ -235,6 +238,9 @@ ul li a{
      color: black;
      font-weight: bold;
 
+ }
+ .cn a{
+     color: black;
  }
   .form .link{
      font-family:'Times New Roman';

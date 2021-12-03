@@ -7,6 +7,33 @@ body{
     font-size: 14px;
     font-family: 'Poppins', sans-serif;
 }
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul li{
+    list-style: none;
+    margin-left: 62px;
+    margin-top: 27px;
+    font-size: 14px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: #ff7200;
+    font-family: Arial;
+    font-family: bold;
+    transition: 0.5s ease-in-out;
+}
+
+ul li a{
+    color: #fff;
+    
+
+}
 .container{
     width:80%;
     margin: 50px auto;
@@ -30,7 +57,7 @@ body{
 }
 h1{
     margin-bottom: 40px;
-
+    text-align: center;
 }
 .input-row{
     display: flex;
@@ -89,4 +116,6 @@ tr td{
     padding-top: 20px;
 }
 
- 
+p {
+    margin-bottom: 20px;
+}
